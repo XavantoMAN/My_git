@@ -1,0 +1,5 @@
+ignore.txt
+init.txt
+*.cmd
+my_git
+.idea
